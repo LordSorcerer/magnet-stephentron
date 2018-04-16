@@ -4,6 +4,9 @@
   "description": "The fabulous Magnet Stephentron, network presence of the esteemed Magnus Stephenson.",
   "main": "magnet-stephentron.js",
   "author": "Matthew Sullivan",
+  "scripts": {
+    "start": "magnet-stephentron.js"
+},
   "dependencies": {
     "discord.js": "^11.3.2",
     "firebase": "^4.12.1",
