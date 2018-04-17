@@ -5,7 +5,7 @@
   "main": "magnet-stephentron.js",
   "author": "Matthew Sullivan",
   "scripts": {
-    "start": "magnet-stephentron.js"
+    "start": "node magnet-stephentron.js"
 },
   "dependencies": {
     "discord.js": "^11.3.2",
