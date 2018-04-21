@@ -13,6 +13,10 @@ app.get('/', function(req, res) {
     res.sendFile(__dirname + '/index.html');
 });
 
+server.listen(port, function() {
+    console.log("Server active!");
+});
+
 /*
 discordClient.login(botToken);
 
