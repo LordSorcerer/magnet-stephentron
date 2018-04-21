@@ -3,7 +3,7 @@ const Discord = require('discord.js');
 const botToken = require('./bot-token.json').token;
 // Create an instance of a Discord discordClient
 const discordClient = new Discord.Client();*/
-
+a
 var express = require('express');
 var app = express();
 var server = require('http').Server(app);
